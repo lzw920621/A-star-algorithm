@@ -1,0 +1,14 @@
+C:\Users\lzw92\source\repos\算法合集\A星算法\bin\Debug\A星算法.exe.config
+C:\Users\lzw92\source\repos\算法合集\A星算法\bin\Debug\A星算法.exe
+C:\Users\lzw92\source\repos\算法合集\A星算法\bin\Debug\A星算法.pdb
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.csprojAssemblyReference.cache
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.Form1.resources
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.Properties.Resources.resources
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.csproj.GenerateResource.cache
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.csproj.CoreCompileInputs.cache
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.exe
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.pdb
+C:\Users\lzw92\source\repos\算法合集\A星算法\bin\Debug\A星算法.exe.manifest
+C:\Users\lzw92\source\repos\算法合集\A星算法\bin\Debug\A星算法.application
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.exe.manifest
+C:\Users\lzw92\source\repos\算法合集\A星算法\obj\Debug\A星算法.application
